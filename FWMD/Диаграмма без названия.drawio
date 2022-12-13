@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T10:22:15.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2500 Yowser/2.5 Safari/537.36" version="20.6.2" etag="vG77_GjwMtYlg59RIxw7" type="github"><diagram id="yZmZyPpAD5doaGghYdZg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-13T10:33:22.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2500 Yowser/2.5 Safari/537.36" version="20.6.2" etag="5i24jeBRrhG2afJ0vZbW" type="github">
+  <diagram id="YOVhxVdN4o8rGH5UBIhO" name="Страница 1">
+    <mxGraphModel dx="1230" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sTE923odUGEEwJzd-4KZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTE923odUGEEwJzd-4KZ-1" target="sTE923odUGEEwJzd-4KZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTE923odUGEEwJzd-4KZ-1" value="Старт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTE923odUGEEwJzd-4KZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTE923odUGEEwJzd-4KZ-4" target="sTE923odUGEEwJzd-4KZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTE923odUGEEwJzd-4KZ-4" value="Вводим данные&lt;br&gt;для массива" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTE923odUGEEwJzd-4KZ-7" value="array [] -массив пользователя&lt;br&gt;result [] - новый массив&lt;br&gt;realSize = 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="278.75" y="170" width="252.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
