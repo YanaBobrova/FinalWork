@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\bin\Debug\net6.0\FWCS.exe
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\bin\Debug\net6.0\FWCS.deps.json
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\bin\Debug\net6.0\FWCS.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\bin\Debug\net6.0\FWCS.dll
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\bin\Debug\net6.0\FWCS.pdb
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.dll
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\refint\FWCS.dll
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.pdb
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\FWCS.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\FW\FWCS\obj\Debug\net6.0\ref\FWCS.dll
